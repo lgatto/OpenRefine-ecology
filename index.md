@@ -18,7 +18,7 @@ status: Teaching
 
 
 #Data Carpentry {{ page.topic }} for {{ page.domain }}
-=======
+
 
 Data Carpentry's aim is to teach researchers basic concepts, skills,
 and tools for working more effectively with data.
