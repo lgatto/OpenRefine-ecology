@@ -29,9 +29,10 @@ minutes:
 > - Copy the code and paste it into a text editor. Save it as a .txt
 >   file.
 
+To run these steps on a new dataset
 
-To run these steps on a new dataset, import the new dataset into
-Refine, open the `Undo / Redo` section, click `Apply`, paste your
-script and then click `Perform Operations`.
+> - import the new dataset into Refine
+> - open the `Undo / Redo` section and click `Apply`
+> - paste your script and click `Perform Operations`
 
 Previous: [Working with OpenRefine](01-working-with-openrefine.html)  Next: [Saving and Exporting files and projects](03-save-export.html)
