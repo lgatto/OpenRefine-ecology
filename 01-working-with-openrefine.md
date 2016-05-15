@@ -59,10 +59,10 @@ If you haven't already, download the data from:
 
 OpenRefine supports faceted browsing as a mechanism for
 
-* seeing a big picture of your data, and
-* filtering down to just the subset of rows that you want to change in bulk.
+* seeing a **big picture** of your data, and
+* filtering down to just the **subset of rows** that you want to change in bulk.
 
-Typically, you create a facet on a particular column. The facet
+Typically, you create a **facet on a particular column**. The facet
 summarizes the cells in that column to give you a big picture on that
 column, and allows you to filter to some subset of rows for which
 their cells in that column satisfy some constraint. That's a bit
@@ -71,9 +71,9 @@ abstract, so let's jump into some examples.
 >  - Scroll over to the `scientificName` column
 >  - Click the down arrow and choose > `Facet` > `Text facet`
 >  - In the left margin, you'll see a box containing every unique,
->    distinct value in the scientificName column and Refine shows you
->    how many times that value occurs in the column (a count), and
->    allows you to sort (order) your facets by name or count.
+>    distinct value in the `scientificName` column and Refine shows you
+>    how many times that value occurs in the column (a **count**), and
+>    allows you to sort (**order**) your facets by name or count.
 >  - **Edit**. Note that at any time, in any cell of the Facet box, or
 >    data cell in the Refine window, you have access to `edit` and can
 >    fix an error immediately. Refine will even ask you if you'd like
@@ -91,9 +91,9 @@ you've been missing. Refine has several clustering algorithms built
 in. Experiment with them, and learn more about these algorithms and
 how they work.
 
-In OpenRefine, clustering refers to the operation of *finding groups
+In OpenRefine, clustering refers to the operation of **finding groups
 of different values that might be alternative representations of the
-same thing"*. For example, the two strings "New York" and "new york"
+same thing**. For example, the two strings "New York" and "new york"
 are very likely to refer to the same concept and just have
 capitalization differences. Likewise, "Gödel" and "Godel" probably
 refer to the same person.
