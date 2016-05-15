@@ -61,7 +61,7 @@ great introductory videos. There is also an
 [Open Refine Google Plus community](https://plus.google.com/communities/117280693504889048168)
 where you can find a lot of help and a lot of folks from the life
 sciences are members. As with other programs of this type, Open Refine
-libraries are available too, where you can find a script you need and
+libraries are available too, where you can find a **script** you need and
 copy it into your Refine instance to run it on your dataset.
 
 * Open source.
