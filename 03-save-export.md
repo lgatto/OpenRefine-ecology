@@ -25,12 +25,12 @@ open it up again and be just where you left off.
 By default OpenRefine is saving your project. If you close OpenRefine and open it up again,
 you'll see a list of your projects. You can click on any one of them to open it up again.
 
-### Exporting
+### Exporting a Project
 
 You can also export a project, for instance if you wanted to send it to someone else. 
 
 > - Go to the `Export` button in the top right. Click `Export`
->   project'. This will save a compressed file that you can then open
+>   project. This will save a compressed file that you can then open
 >   in OpenRefine that contains all the data and steps.
 
 
@@ -50,4 +50,4 @@ That file will get exported to your default Download directory and can
 then be eaily opened in a spreadsheet program or imported into
 programs like R or Python.
 
-Previous: [Scripts](02-scripts.html) Optional Next: [Services in OpenRefine](04-services.html)
+Previous: [Scripts](02-scripts.html) 
