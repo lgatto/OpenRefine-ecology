@@ -20,7 +20,7 @@ In OpenRefine you can save or export the project. This means you're saving the d
 information about the cleaing steps you've done. Once you've saved a Project, you can
 open it up again and be just where you left off.
 
-### Saving
+### Saving a Project
 
 By default OpenRefine is saving your project. If you close OpenRefine and open it up again,
 you'll see a list of your projects. You can click on any one of them to open it up again.
