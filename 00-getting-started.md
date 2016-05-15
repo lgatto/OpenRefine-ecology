@@ -46,7 +46,7 @@ minutes:
   extract all files from the zipped file to the desired directory.
 * Go to your newly created Open-Refine directory.
 * Launch Open Refine
-  * Windows: Click the google-refine.exe
+  * Windows: Click the `openrefine.exe`
   * Mac: Drag icon into Applications folder and double-click it
   * Linux: Run ./refine
 * Note, this is a Java program that runs on your machine (not in the

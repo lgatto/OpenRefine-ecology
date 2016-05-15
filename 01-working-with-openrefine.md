@@ -19,7 +19,7 @@ minutes:
 
 ## Creating a Project
 
-Start the program. (Double-click on the `google-refine.exe` file. Java
+Start the program. (Double-click on the `openrefine.exe` file. Java
 services will start on your machine, and Refine will open in your
 Firefox browser, or see the [Getting Started](00-getting-started.html)
 for details).
