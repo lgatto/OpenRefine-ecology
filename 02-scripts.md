@@ -24,14 +24,14 @@ minutes:
   script, open a new file to clean, paste in the script and run
   it. Voila, clean data.
 
-> - In the Undo / Redo section, click Extract, save the bits desired
+> - In the `Undo / Redo` tab, click `Extract`, save the bits desired
 >   using the check boxes.
 > - Copy the code and paste it into a text editor. Save it as a .txt
 >   file.
 
 
 To run these steps on a new dataset, import the new dataset into
-Refine, open the Extract / Apply section, paste in the content of
-script, click `Apply`.
+Refine, open the `Undo / Redo` section, click `Apply`, paste your
+script and then click `Perform Operations`.
 
 Previous: [Working with OpenRefine](01-working-with-openrefine.html)  Next: [Saving and Exporting files and projects](03-save-export.html)
